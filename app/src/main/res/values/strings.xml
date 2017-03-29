@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LogDebug</string>
+    <string name="hello">Hello World, LogDemo!</string>
+</resources>
